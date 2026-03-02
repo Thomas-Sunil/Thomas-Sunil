@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas Sunil</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-sunil" alt="thomas-sunil" /></a> </p>
-
 - 🔭 I’m currently working on **Go Lang Backend Developer**
 
-- 🌱 I’m currently learning **Go, Flutter, Shell scripting**
+- 🌱 I’m currently learning **Go, Flueer, Shell scripting**
 
 - 📫 How to reach me **thomassunilpzr@gmail.com**
 
