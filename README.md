@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Go Lang Backend Developer**
 
-- 🌱 I’m currently learning **Go, Flueer, Shell scripting**
+- 🌱 I’m currently learning **Go, Flutter, Shell scripting**
 
 - 📫 How to reach me **thomassunilpzr@gmail.com**
 
